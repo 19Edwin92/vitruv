@@ -9,8 +9,8 @@ export const PagiNation:FC = () => {
             <Styled.BoxDiv $width={20} $height={20} $fontS={0.75} $bColor="#3D69E5" $color="#3D69E5" $fColor="#fff" $borderR={3} children="1"/>
             <Styled.BoxDiv $width={20} $height={20} $fontS={0.75} $color="white" $borderR={3} children="2"/>
             <Styled.BoxDiv $width={20} $height={20} $fontS={0.75} $color="white" $borderR={3} children="3"/>
-          <Styled.MdOutlineKeyboardDoubleArrowRight/>
           <Styled.MdOutlineKeyboardArrowRight/>
+          <Styled.MdOutlineKeyboardDoubleArrowRight/>
         </Styled.FlexBox>
   )
 }
